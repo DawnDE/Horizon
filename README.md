@@ -1,2 +1,2 @@
 # Horizon
-Magentum is a next generation DE for Linux.
+Horizon is a next generation DE for Linux.
